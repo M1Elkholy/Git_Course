@@ -1,1 +1,1 @@
-# Git_Course from el zero
+# Git course from El-Zero
